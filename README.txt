@@ -1,0 +1,1 @@
+https://content.codecademy.com/courses/freelance-1/capstone-1/solution/index.html?_gl=1*b1zux1*_ga*Mjg0MTc5Njk2Mi4xNjU2NTQ5NTE1*_ga_3LRZM6TM9L*MTY2MzM1OTc5MC43Mi4xLjE2NjMzNjA4NTQuMjEuMC4w

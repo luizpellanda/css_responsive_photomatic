@@ -1,0 +1,40 @@
+@media only screen and (max-width: 450px) {
+  header .desktop {
+    display: none;
+  }
+
+  header .tablet {
+    display: none;
+  }
+  
+  header .mobile {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  header .mobile ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+  }
+
+  header .mobile .button {
+    padding: .1875rem .5rem;
+    background-color: blue;
+    line-height: 1.6;
+    color: white;
+  }
+  
+  #sign-up-section {
+      height: 20rem;
+    }
+  
+    #sign-up-cta h1 {
+      font-size: 2.25rem;
+    }
+  
+    #sign-up-cta h2 {
+      font-size: 2rem;
+    }
+  }
